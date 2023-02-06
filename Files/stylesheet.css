@@ -1,0 +1,31 @@
+body {
+    font-family: monospace;
+    font-size: 15px;
+    color: #a5ff90 ;
+    background-color: #15232d;
+  }
+
+  h2{
+    color: aquamarine;
+    filter: drop-shadow(0px 0px 2px #31ff03);
+  }
+
+  h1{
+    color: aquamarine;
+    filter: drop-shadow(0px 0px 2px #31ff03);
+  }
+
+  img{
+    filter: drop-shadow(0px 0px 5px #31ff03);
+  }
+  
+  hr{
+    border: 1px solid #31ff03;
+    filter: drop-shadow(0px 0px 5px #31ff03);
+  }
+
+  t{
+    filter: drop-shadow(0px 0px 2px #31ff03);
+  }
+  
+
